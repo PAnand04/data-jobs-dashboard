@@ -11,7 +11,7 @@ An interactive multi-page dashboard designed to explore trends in the data job m
 
 ####  Dashboard Pages
 
-(Images/Project1_Page1.png)
+!(Images/Project1_Page1.png)
 
 (Images/Project1_Page2.png)
 
