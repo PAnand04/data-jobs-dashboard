@@ -11,9 +11,9 @@ An interactive multi-page dashboard designed to explore trends in the data job m
 
 ####  Dashboard Pages
 
-!(Images/Project1_Page1.png)
+![Dashboard Page 1](Images/Project1_Page1.png)
 
-(Images/Project1_Page2.png)
+![Dashboard Page 2](Images/Project1_Page2.png)
 
 #### Key Features
 * KPI Cards for key metrics
@@ -48,7 +48,7 @@ The second version focuses on improving report design, performance, and analytic
 
 #### Dashboard Pages
 
-(Images/Project2_Page1.png)
+![Dashboard Project 2](Images/Project2_Page1.png)
 
 #### Key Features
 * Single-page executive dashboard
