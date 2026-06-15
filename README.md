@@ -89,6 +89,3 @@ Through these projects, I gained practical experience in:
 * Implementing drill-through analysis
 * Using parameters for dynamic reporting
 * Applying business intelligence concepts to real-world datasets
-
-## Author
-**Pallak Anand** 
