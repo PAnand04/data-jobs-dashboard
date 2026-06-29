@@ -1,12 +1,4 @@
-# Power BI Dashboard Portfolio
-
-This repository showcases my journey of learning Power BI through hands-on projects focused on data visualization, business intelligence, and interactive reporting.
-
-The dashboards in this portfolio were built using a real-world Data Jobs dataset and demonstrate my progression from creating interactive reports with standard visualizations to implementing advanced Power BI concepts such as data modeling, DAX, Power Query transformations, and parameter-driven analysis.
-
-## Featured Projects
-
-### Data Jobs Dashboard (Version 1)
+# Data Jobs Dashboard (Version 1)
 An interactive multi-page dashboard designed to explore trends in the data job market, including job demand, salary insights, and job statistics.
 
 ####  Dashboard Pages
@@ -43,7 +35,7 @@ This page provides a detailed analysis of individual job roles, including:
 * Job Platform Distribution
 * Employment Type Breakdown
 
-### Data Jobs Dashboard 2.0 (Version 2)
+# Data Jobs Dashboard 2.0 (Version 2)
 The second version focuses on improving report design, performance, and analytical capabilities while implementing more advanced Power BI techniques.
 
 #### Dashboard Pages
